@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and LINUX.🚀
+  ###Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and LINUX.🚀
 </p>
 
 ### 💪 Skills
