@@ -1,5 +1,5 @@
 ### Hi there! I'm **full stack developer** skilled in *API*, *WEB*, and *LINUX*.
-<a href="http://joyho.net">![JOYHO.NET](https://img.shields.io/badge/WWW-JOYHO.NET-darkred?logo=php&logoColor=white&style=for-the-badge)</a>
+<a href="http://joyho.net" target="_blank">![JOYHO.NET](https://img.shields.io/badge/WWW-JOYHO.NET-darkred?logo=php&logoColor=white&style=for-the-badge)</a>
 ---
 ### Skills
 #### Languages
