@@ -11,11 +11,12 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?logo=Jquery&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat-square)
+![RestAPI](https://img.shields.io/badge/-Rest_API-009688?logo=FastAPI&logoColor=black&style=flat-square)
 
 #### Tools & Platforms
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white&style=flat-square)
+![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=VisualStudioCode&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=GitHub&logoColor=white&style=flat-square)
 ![Codeigniter3](https://img.shields.io/badge/-Codeigniter3-EF4223?logo=Codeigniter&logoColor=white&style=flat-square)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=ElasticSearch&logoColor=white&style=flat-square)
 ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=flat-square)
