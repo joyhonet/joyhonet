@@ -24,4 +24,4 @@
 <a href="#">![Chrome](https://img.shields.io/badge/-Chrome-4285F4?logo=GoogleChrome&logoColor=white&style=flat-square)</a>
 <a href="#">![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat-square)</a>
 <a href="#">![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=white&style=flat-square)</a>
-<a href="#">![Gnuboard](https://img.shields.io/badge/Board-Gnuboard-red?logo=Gnuboard&logoColor=white&style=flat-square)</a>
+<a href="#">![Gnuboard](https://img.shields.io/badge/Gnu-Board-red?logo=Gnuboard&logoColor=white&style=flat-square)</a>
